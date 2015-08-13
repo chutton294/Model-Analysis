@@ -1,4 +1,4 @@
-Regional Sensitivity Analysis
+Regional Sensitivity Analysis (RSA)
 
 The code provides functions to run regional sensitivity analysis in R. With a supplied input file of model parameter sets, 
 and associated performanc metrics (or signature values) the code produces:
